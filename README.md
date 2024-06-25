@@ -8,7 +8,7 @@
 
 **Reading :**
 
-1. (SUBJECT: A WAR IN HEAVEN)[./writing/reading/virus.pdf]
+1. [SUBJECT: A WAR IN HEAVEN](./writing/reading/virus.pdf)
 2.
 3.
 
@@ -20,7 +20,7 @@
 
 **Project :**
 
--
+- [the Dead Media Project](http://www.deadmedia.org/)
 -
 
 **Term :**
@@ -30,7 +30,7 @@
 
 **Website :**
 
-- (Nettime)[https://nettime.org/]
+- [Nettime](https://nettime.org/)
 -
 
 ## Notes :
