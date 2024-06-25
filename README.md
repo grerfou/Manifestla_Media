@@ -19,12 +19,15 @@
 - [0100101110101101 --> Eva and Franco Mattes](https://0100101110101101.org/works/)
 - [Olia Liana's](http://art.teleportacia.org/#CenterOfTheUniverse)
 - [Mongrel](https://monoskop.org/Mongrel)
+- [Vuk_Ćosić](https://monoskop.org/Vuk_Ćosić)
+- [RACHEL BAKER](https://www.irational.org/tm/baker_cv.html)
 
 **Ressources :**
 
 - [Rhizome](https://rhizome.org/)
 - [Nettime](https://nettime.org/)
 - [Monoskop](https://monoskop.org/Monoskop)
+- [e-flux](https://www.e-flux.com)
 
 **Map :**
 
@@ -37,6 +40,7 @@
 - [Jodi.org](http://blogspot.jodi.org/), [Jodi Archive](https://joid.org/archive/)
 - [Net Art Anthology](https://anthology.rhizome.org/)
 - [The Web Stalker](http://www.medienkunstnetz.de/works/webstalker/), [Emulator](https://sites.rhizome.org/anthology/webstalker.html)
+- [The Cyberpunk Project](http://project.cyberpunk.ru)
 
 
 ## Notes :
