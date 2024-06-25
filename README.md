@@ -9,7 +9,7 @@
 **Reading :**
 
 1. [SUBJECT: A WAR IN HEAVEN](./writing/reading/virus.pdf)
-2.
+2. [La Cathedrale dui Bazar](./writing/reading/cathedrale-bazar.pdf)
 3.
 
 
