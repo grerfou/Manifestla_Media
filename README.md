@@ -25,7 +25,7 @@
 **Ressources :**
 
 - [Rhizome](https://rhizome.org/)
-- [Nettime](https://nettime.org/)
+- [Nettime](https://nettime.org/), [About Nettime](https://nettime.org/nettime/DOCS/1/toc(2).html)
 - [Monoskop](https://monoskop.org/Monoskop)
 - [e-flux](https://www.e-flux.com)
 
