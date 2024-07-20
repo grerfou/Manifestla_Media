@@ -96,6 +96,7 @@
 - [Papertiger](https://papertiger.org/about-us/)
 - [Undercurrentsradio](https://www.undercurrentsradio.net/faq)
 - [Arte-util](https://www.arte-util.org/projects/zapatista-tactical-floodnet/)
+- [LatentSpace](https://latentspaces.zhdk.ch/)
 
 **Historical Ressources :**
 
